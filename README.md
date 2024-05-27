@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 - 🔭 I’m currently working on @Platzi
 - 🌱 I’m currently learning QA Education 
 - 👯 I’m looking to collaborate on @IEEEUTP, @GDSC.UTP, @BDGInstitute, @MoureDev
