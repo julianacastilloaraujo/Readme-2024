@@ -6,4 +6,4 @@
 - 💬 Ask me about LLM, Generative AI, Machine Learning.
 - 📫 How to reach me: jcastilloa@ucundinamarca.edu.co.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I'm passionate about Juliana's Veggie Venture!
+- ⚡ Fun fact: Juliana's Veggie Venture!
