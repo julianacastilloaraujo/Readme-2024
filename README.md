@@ -16,15 +16,6 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-00D1A4?style=for-the-badge&logo=ai&logoColor=white)
 
-### Projects
-- [Project 1](https://github.com/username/project1): Description of project 1.
-- [Project 2](https://github.com/username/project2): Description of project 2.
-
-### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding QA Education](https://yourblog.com/qa-education)
-- [Women in Tech: Challenges and Opportunities](https://yourblog.com/women-in-tech)
-<!-- BLOG-POST-LIST:END -->
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
