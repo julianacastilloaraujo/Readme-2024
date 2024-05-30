@@ -1,7 +1,5 @@
 ## Hi there! 👋
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
-
 ### About Me
 - 🔭 **Currently Working At**: [Platzi](https://platzi.com)
 - 🌱 **Learning About**: QA Education
