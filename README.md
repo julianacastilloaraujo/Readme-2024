@@ -1,5 +1,4 @@
 ## Hi there! 👋
-
 ### About Me
 - 🔭 **Currently Working At**: [Platzi](https://platzi.com)
 - 🌱 **Learning About**: QA Education
