@@ -2,7 +2,7 @@
 ### About Me
 - 🔭 **Currently Working At**: [Platzi](https://platzi.com)
 - 🌱 **Learning About**: QA Education
-- 👯 **Looking to Collaborate On**: Projects at [IEEE UTP](https://www.ieee.org), [GDSC UTP](https://developers.google.com/community/gdsc), [BDG Institute](https://bdg.institute), [MoureDev](https://moure.dev)
+- 👯 **Looking to Collaborate On**: Projects at [IEEE UTP](https://www.ieee.org), [GDSC UTP](https://developers.google.com/community/gdsc), [BDG Institute](https://bdginstitute.edu.co/), [MoureDev](https://moure.dev)
 - 🤔 **Seeking Help With**: #WomenInTech
 - 💬 **Ask Me About**: LLM, Generative AI, Machine Learning
 - 📫 **Contact Me**: jcastilloa@ucundinamarca.edu.co
