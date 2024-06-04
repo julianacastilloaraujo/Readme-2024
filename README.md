@@ -21,4 +21,3 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-00D1A4?style=for-the-badge&logo=ai&logoColor=white)
 ![QA Testing](https://img.shields.io/badge/QA%20Testing-009688?style=for-the-badge&logo=testing&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=data-analysis&logoColor=white)
-![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-FF9800?style=for-the-badge&logo=agile&logoColor=white)
