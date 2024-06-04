@@ -8,7 +8,7 @@
   - [GDSC UTP](https://developers.google.com/community/gdsc)
   - [BDG Institute](https://bdginstitute.edu.co/)
   - [MoureDev](https://moure.dev)
-- 🤔 **Seeking Help With**: #WomenInTech
+- 🤔 **Seeking Help With**: #WomenInTech #WomenInSTEM
 - 💬 **Ask Me About**: LLM, Generative AI, Machine Learning
 - 📫 **Contact Me**: jcastilloa@ucundinamarca.edu.co
 - 😄 **Pronouns**: She/Her
