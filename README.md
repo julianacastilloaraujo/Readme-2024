@@ -4,7 +4,7 @@
 - 🔭 **Currently Working At**: [Platzi](https://platzi.com)
 - 🌱 **Learning About**: QA Education
 - 👯 **Looking to Collaborate On**: 
-  - Projects at [IEEE UTP](https://www.ieee.org)
+  - [IEEE UTP](https://www.ieee.org)
   - [GDSC UTP](https://developers.google.com/community/gdsc)
   - [BDG Institute](https://bdginstitute.edu.co/)
   - [MoureDev](https://moure.dev)
