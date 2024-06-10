@@ -37,13 +37,4 @@ Welcome to my GitHub profile! I'm Juliana Castillo Araujo, a passionate develope
 ![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianacastilloaraujo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianacastilloaraujo&layout=compact&theme=radical)
 
-## Blog Posts
-- [Exploring Generative AI](https://julianacastilloaraujo.medium.com/exploring-generative-ai-123456789)
-- [Understanding Machine Learning Basics](https://julianacastilloaraujo.medium.com/understanding-machine-learning-basics-987654321)
-
-## Support Me
-If you like my work, consider buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/julianacastilloaraujo)
-
 Thanks for visiting my profile!
