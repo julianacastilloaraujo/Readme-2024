@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm Juliana Castillo Araujo, a passionate develope
 
 ## Projects
 ### Notable Projects
-- **AI Chatbot**: Developed a chatbot using Generative AI that helps users with basic queries. [GitHub Repository](https://github.com/julianacastilloaraujo/ai-chatbot)
-- **Data Analysis Pipeline**: Created a pipeline for real-time data analysis for a major retailer. [GitHub Repository](https://github.com/julianacastilloaraujo/data-analysis-pipeline)
+- **AI Chatbot**: Developed a chatbot using Generative AI that helps users with basic queries. 
+- **Data Analysis Pipeline**: Created a pipeline for real-time data analysis for a major retailer.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianacastilloaraujo)
