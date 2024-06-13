@@ -1,7 +1,7 @@
 # Hi there! 👋
 Welcome to my GitHub profile! I'm Juliana Castillo Araujo, a passionate developer and AI enthusiast. 
 ## About Me
-- 🔭 **Currently Working At**: [Platzi](https://platzi.com)
+- 🔭 **Currently Working At**: [Platzi](https://platzi.com) & [BDG Institute](https://bdginstitute.edu.co/)
 - 👯 **Looking to Collaborate On**: 
   - [IEEE UTP](https://www.ieee.org)
   - [GDSC UTP](https://developers.google.com/community/gdsc)
