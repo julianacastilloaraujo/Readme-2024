@@ -27,6 +27,3 @@ Welcome to my GitHub profile! I'm Juliana Castillo Araujo, a passionate develope
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julianacastilloaraujo)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/julianacastilloaraujo)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@julianacastilloaraujo)
-## Stats
-![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianacastilloaraujo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianacastilloaraujo&layout=compact&theme=radical)
