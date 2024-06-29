@@ -2,8 +2,7 @@
 Welcome to my GitHub profile! I'm Juliana Castillo Araujo, a passionate developer and AI enthusiast. 
 ## About Me
 - 🔭 **Currently Working At**: [Platzi](https://platzi.com) & [BDG Institute](https://bdginstitute.edu.co)
-- 👯 **Looking to Collaborate On: [IEEE UTP](https://www.ieee.org), [GDSC UTP](https://developers.google.com/community/gdsc), [BDG Institute](https://bdginstitute.edu.co/)
-  - [MoureDev](https://moure.dev)
+- 👯 **Looking to Collaborate On: [IEEE UTP](https://www.ieee.org), [GDSC UTP](https://developers.google.com/community/gdsc), [BDG Institute](https://bdginstitute.edu.co/), [MoureDev](https://moure.dev)
 - 💬 **Ask Me About**: LLM, Generative AI, Machine Learning
 - 📫 **Contact Me**: jcastilloa@ucundinamarca.edu.co
 - 😄 **Pronouns**: She/Her
