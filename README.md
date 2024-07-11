@@ -30,6 +30,6 @@ Welcome to my GitHub profile! I'm **Juliana Castillo Araujo**, I am a Systems En
 Feel free to reach out if you want to collaborate or have any questions!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana%20Castillo%20Araujo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/julianacastilloaraujo)
-[![Twitter](https://img.shields.io/badge/Twitter-@julianacastilloaraujo-1DA1F2?style=flat&logo=twitter)](https://twitter.com/julianacastilloaraujo)
+[![Twitter](https://img.shields.io/badge/Twitter-@julianacastilloaraujo-1DA1F2?style=flat&logo=twitter)](https://twitter.com/jcastilloaraujo)
 [![Instagram](https://img.shields.io/badge/Instagram-@julianacastilloaraujo-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/julianacastilloaraujo)
 [![Facebook](https://img.shields.io/badge/Facebook-Juliana%20Castillo%20Araujo-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/julianacastilloaraujo)
