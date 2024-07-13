@@ -33,4 +33,3 @@ Feel free to reach out if you want to collaborate or have any questions!
 [![Facebook](https://img.shields.io/badge/Facebook-Juliana%20Castillo%20Araujo-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/julianacastilloaraujo)
 [![Twitter](https://img.shields.io/badge/Twitter-@jcastilloaraujo-1DA1F2?style=flat&logo=twitter)](https://twitter.com/jcastilloaraujo)
 [![Instagram](https://img.shields.io/badge/Instagram-@julianacastilloaraujo-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/julianacastilloaraujo)
-
