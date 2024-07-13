@@ -19,10 +19,6 @@ Welcome to my GitHub profile! I'm **Juliana Castillo Araujo**, a Systems Enginee
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=data-analysis&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=deep-learning&logoColor=white)
 
-## Projects
-- 🚀 **[Chatbot for Online Stores](#)**: A Dialogflow-based chatbot to respond to frequently asked questions about products and services.
-- 📊 **[Personalized Product Recommendations](#)**: AI-driven recommendation system for VIP clients based on purchase history and browsing behavior.
-
 ## Courses
 - **ChatGPT for Everyone**: Learn to create custom instructions and prompts for ChatGPT.
 - **AI Tools in Business**: Explore no-code tools for AI in business environments.
