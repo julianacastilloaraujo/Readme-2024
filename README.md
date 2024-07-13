@@ -18,14 +18,3 @@ Welcome to my GitHub profile! I'm **Juliana Castillo Araujo**, a Systems Enginee
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-00D1A4?style=for-the-badge&logo=ai&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=data-analysis&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=deep-learning&logoColor=white)
-
-## Courses
-- **ChatGPT for Everyone**: Learn to create custom instructions and prompts for ChatGPT.
-- **AI Tools in Business**: Explore no-code tools for AI in business environments.
-
-Feel free to reach out if you want to collaborate or have any questions!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana%20Castillo%20Araujo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/julianacastilloaraujo)
-[![Facebook](https://img.shields.io/badge/Facebook-Juliana%20Castillo%20Araujo-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/julianacastilloaraujo)
-[![Twitter](https://img.shields.io/badge/Twitter-@jcastilloaraujo-1DA1F2?style=flat&logo=twitter)](https://twitter.com/jcastilloaraujo)
-[![Instagram](https://img.shields.io/badge/Instagram-@julianacastilloaraujo-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/julianacastilloaraujo)
