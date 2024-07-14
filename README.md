@@ -12,7 +12,6 @@ I'm Juliana Castillo Araujo:
 
 Let's connect and create something amazing together! 🌟 [@julianacastilloaraujo](https://github.com/julianacastilloaraujo)
 
-
 ## About Me
 - 🔭 **Currently Working At**: [Platzi](https://platzi.com) & [BDG Institute](https://bdginstitute.edu.co)
 - 👩‍🏫 **Role**: AI and Machine Learning Teacher
