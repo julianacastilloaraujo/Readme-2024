@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **Juliana Castillo Araujo**, a Systems Engineer certified in ChatGPT by OpenAI, and an AI/ML teacher at BDG Institute. I am also a Data Analyst at JumpEducation, specializing in Ethical Data at SheWorksCloud, and an active member of Google WTM.
-
+Welcome to my GitHub profile! I'm Juliana Castillo Araujo, a Systems Engineer certified in ChatGPT by OpenAI and an AI/ML teacher at BDG Institute. I also work as a Data Analyst at JumpEducation, specialize in Ethical Data at SheWorksCloud, and am an active member of Google WTM.
 ## About Me
 - 🔭 **Currently Working At**: [Platzi](https://platzi.com) & [BDG Institute](https://bdginstitute.edu.co)
 - 👩‍🏫 **Role**: AI and Machine Learning Teacher
